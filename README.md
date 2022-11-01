@@ -18,6 +18,10 @@ title-test.sh        test of title boxes title-80.sh & title.sh
 
 
 
+WARNING!!!
+have a data directory in home for *.dat files
+$HOME/data
+
 
 
 $ title.sh -h
